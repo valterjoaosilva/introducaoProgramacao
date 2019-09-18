@@ -4,7 +4,7 @@ int main(void){
     int i = 1;
     int soma = 0;
 
-    while(i <= 5){
+    while(i <= 100){
         soma = soma + i;
         i = i + 1;
     }
